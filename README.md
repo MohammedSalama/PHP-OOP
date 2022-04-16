@@ -1,6 +1,6 @@
 ### PHP-OOP
 #Revisions
-# Content Revisions 
+# Content Revision
 ## Visibility public , protected , private
 ## Encapsulation in php setter and getter
 ## Magic Method 
